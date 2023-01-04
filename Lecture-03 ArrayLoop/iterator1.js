@@ -1,4 +1,4 @@
-let str = "Hello";
+let str = "Thitirat";
 
 let iterator = str[Symbol.iterator]();
 
