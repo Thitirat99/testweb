@@ -1,8 +1,9 @@
 let arrayLength = 7;
 let arr1 = [];
-let arr2 = Array(arrayLength);
-let arr3 = ['A' , false , 5]
+let arr2 = Array(arrayLength); 
+let arr3 = ['A' , false , 5]  // 'A' เรียกว่าสตริงในภาษา JS
 
+//Getting array length
 console.log(arr1.length);
 console.log(arr2.length);
 console.log(arr3.length);
