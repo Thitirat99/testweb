@@ -1,15 +1,8 @@
-let furniture = 'Table';
-let furniture1 = 'chairs';
-let furniture2 = 'Couch';
-    for (let );
-    {
-    console.log(furniture);
-    console.log(furniture1);
-    console.log(furniture2);
-   
+let furniture = ['Table','Chairs','Couch'];
 
+for(let value of furniture){
+    for(let char of value){
+        
+        console.log(char);
     }
-
-
-
-
+}
