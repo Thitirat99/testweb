@@ -1,6 +1,6 @@
 // Libhello.js
 const person = {
-    name: 'Shinnawat',
+    name: 'Thitirat ',
     weight: 76
 }
 
