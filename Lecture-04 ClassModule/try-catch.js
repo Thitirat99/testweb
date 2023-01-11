@@ -18,7 +18,7 @@ try {
 console.log("\n----Throwing in Try-catch----\n");
 
 try {
-    throw "An exception that is thrown every time";
+    throw "An exception that is thrown every time";  //throw สร้าง Errorขึ้นมา
 } catch (ex) {
     console.log("Got an error");
     logError(ex);
